@@ -3,7 +3,7 @@
 
 GradeBook Manager is a Python application that manages student records in a SQLite database. It provides functionalities to insert, delete, display, and order student records based on grades or names.
 
-![GradeBook Manager](C:\Users\froze\Downloads\db1.jpg)  <!-- Replace with an image related to your project if available -->
+![GradeBook Manager](db1.jpg)  <!-- Replace with an image related to your project if available -->
 
 ## Features
 
