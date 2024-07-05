@@ -1,0 +1,18 @@
+# Python specific
+*.pyc          # Python compiled files
+__pycache__/   # Python cache directory
+
+# Environment
+.env           # Environment variables
+
+# Editor-specific
+.vscode/       # Visual Studio Code directory
+.idea/         # PyCharm directory
+
+# System-specific
+.DS_Store      # macOS system file
+
+# Logs and databases
+*.log          # Log files
+*.sqlite       # SQLite database files
+
